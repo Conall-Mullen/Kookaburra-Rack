@@ -1,0 +1,3 @@
+/Users/conallomaolain/Electro-smith/DaisyExamples/libDaisy/CMakeFiles/daisy.dir
+/Users/conallomaolain/Electro-smith/DaisyExamples/libDaisy/CMakeFiles/edit_cache.dir
+/Users/conallomaolain/Electro-smith/DaisyExamples/libDaisy/CMakeFiles/rebuild_cache.dir

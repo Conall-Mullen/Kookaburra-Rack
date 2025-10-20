@@ -1,0 +1,23 @@
+{
+  "slug": "Kookaburra",
+  "name": "Kookaburra",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Kookaburra",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Kookaburra",
+      "name": "Kookaburra",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
