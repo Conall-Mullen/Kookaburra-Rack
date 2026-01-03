@@ -1,7 +1,7 @@
 #include "plugin.hpp"
 #include <dsp/ringbuffer.hpp>
-#include "daisysp.h"
-#include "../libDaisy/src/util/ringbuffer.h"
+// #include "daisysp.h"
+// #include "../libDaisy/src/util/ringbuffer.h"
 #include <stdio.h>
 
 struct Kookaburra : Module {
